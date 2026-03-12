@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there fellow internets 👋 
+
+- 🔭 I’m currently working on My website: <a href="https://daynewaterlow" rel="me">https://daynewaterlow.com/</a>
+- 📫 How to reach me (Leave a Shout!): <a href="https://matrix.daynewaterlow" rel="me">https://matrix.daynewaterlow.com/</a>
 
 <!--
 **dwhacks/dwhacks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
